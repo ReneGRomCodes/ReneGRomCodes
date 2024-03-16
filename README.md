@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @ReneGRomCodes... or just René 👋  
 ![Alt Text](https://github.com/ReneGRomCodes/ReneGRomCodes/blob/main/readme_gif.gif)  
   
-![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=Flat&logo=pycharm&logoColor=black&color=black&labelColor=green) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green)  
+![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=Flat&logo=pycharm&logoColor=black&color=black&labelColor=green)  
   
 - So, here's the scoop: I've got a solid grip on Python basics, thanks to diving into "Think Python" by Allen B. Downey and breezing through "Python Crash Course" by Eric Matthes. Throw in some hands-on tinkering and wrapping up courses on freeCodeCamp, and you've got me on this wild ride of expanding my coding skills! 🚀
   
@@ -11,7 +11,7 @@
   
 - ✨ Contact: renegromcodes@gmail.com
 - ✨ Certificates:  
-[Scientific Computing with Python](https://www.freecodecamp.org/certification/fccae01e4e9-7e68-4c11-9273-e8a4d973e2c1/scientific-computing-with-python-v7)
+[Scientific Computing with Python ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/certification/fccae01e4e9-7e68-4c11-9273-e8a4d973e2c1/scientific-computing-with-python-v7)
 
 <!---
 ReneGRomCodes/ReneGRomCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
