@@ -11,7 +11,7 @@
   
 - ✨ Contact: renegromcodes@gmail.com
 - ✨ Certificates:  
-[Scientific Computing with Python ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/certification/fccae01e4e9-7e68-4c11-9273-e8a4d973e2c1/scientific-computing-with-python-v7)
+[Scientific Computing with Python ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/certification/fccae01e4e9-7e68-4c11-9273-e8a4d973e2c1/scientific-computing-with-python-v7)  
 [Data Analysis with Python ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/certification/fccae01e4e9-7e68-4c11-9273-e8a4d973e2c1/data-analysis-with-python-v7)
 
 <!---
