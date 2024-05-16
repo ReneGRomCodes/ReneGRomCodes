@@ -13,8 +13,8 @@
 
 - ✨ Contact: renegromcodes@gmail.com
 - ✨ Certificates:  
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Scientific Computing with Python](https://www.freecodecamp.org/certification/fccae01e4e9-7e68-4c11-9273-e8a4d973e2c1/scientific-computing-with-python-v7)  
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Data Analysis with Python](https://www.freecodecamp.org/certification/fccae01e4e9-7e68-4c11-9273-e8a4d973e2c1/data-analysis-with-python-v7)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Scientific Computing with Python](https://www.freecodecamp.org/certification/ReneRomero/scientific-computing-with-python-v7)  
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Data Analysis with Python](https://www.freecodecamp.org/certification/ReneRomero/data-analysis-with-python-v7)
 
 <!---
 ReneGRomCodes/ReneGRomCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
