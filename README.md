@@ -16,7 +16,9 @@
 - ✨ Certificates:  
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Scientific Computing with Python](https://www.freecodecamp.org/certification/ReneRomero/scientific-computing-with-python-v7)  
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Data Analysis with Python](https://www.freecodecamp.org/certification/ReneRomero/data-analysis-with-python-v7)  
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/ReneRomero/foundational-c-sharp-with-microsoft)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/ReneRomero/foundational-c-sharp-with-microsoft)  
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) College Alebra with Python](https://www.freecodecamp.org/certification/ReneRomero/college-algebra-with-python-v8)
+
 
 <!---
 ReneGRomCodes/ReneGRomCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
