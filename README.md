@@ -13,7 +13,7 @@ Let's kick this off: I've gone deep into Python, from mastering the fundamentals
   Currently developing a dynamic character creator for Basic Fantasy RPG, with plans to turn it into a flexible mini-engine for custom RPGs. But I'm always working on something new and looking for ways to improve.
   
 - **Current Project Release:**  
-[**Basic Fantasy RPG Character Creator - v1.0.0**](https://github.com/ReneGRomCodes/basic_fantasy_rpg_character_creator/releases/tag/v1.0.0)
+[**Basic Fantasy RPG Character Creator - v1.0.1**](https://github.com/ReneGRomCodes/basic_fantasy_rpg_character_creator/releases/tag/v1.0.1)
 
 - **Beyond coding:**  
   Fitness, video games, and anime keep me busy when I'm not tinkering with code. Also, I have an unhealthy habit of digging into old games, tweaking them, and optimizing mechanics just because I can.
