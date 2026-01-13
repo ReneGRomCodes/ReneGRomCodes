@@ -20,10 +20,10 @@ I'm a Python developer 🐍 exploring automation, data, and software projects, a
   
 - ✨ Certificates:  
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Python](https://www.freecodecamp.org/certification/reneromero/python-v9)  
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Scientific Computing with Python](https://www.freecodecamp.org/certification/ReneRomero/scientific-computing-with-python-v7)  
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Data Analysis with Python](https://www.freecodecamp.org/certification/ReneRomero/data-analysis-with-python-v7)  
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/ReneRomero/foundational-c-sharp-with-microsoft)  
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) College Alebra with Python](https://www.freecodecamp.org/certification/ReneRomero/college-algebra-with-python-v8)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Scientific Computing with Python](https://www.freecodecamp.org/certification/reneromero/scientific-computing-with-python-v7)  
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Data Analysis with Python](https://www.freecodecamp.org/certification/reneromero/data-analysis-with-python-v7)  
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/reneromero/foundational-c-sharp-with-microsoft)  
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) College Alebra with Python](https://www.freecodecamp.org/certification/reneromero/college-algebra-with-python-v8)
 
 
 <!---
