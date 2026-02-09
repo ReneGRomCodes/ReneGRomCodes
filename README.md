@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m @ReneGRomCodes... or just René 👋  
 ![Alt Text](https://github.com/ReneGRomCodes/ReneGRomCodes/blob/main/readme_gif.gif)  
   
-![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=Flat&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=Flat&logo=pycharm&logoColor=black&color=black&labelColor=green) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black) ![Datagrip](https://img.shields.io/badge/DataGrip-%23000000.svg?style=flat&logo=DataGrip&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)  
 👋 Hello!  
   
-I'm a Python developer 🐍 exploring automation, data, and software projects, actively looking for new professional opportunities. Currently sharpening my C# and JavaScript skills and building hands-on projects.
+I'm a Python developer 🐍 exploring automation, data, and software projects, actively looking for new professional opportunities. Currently sharpening my C#, JavaScript and SQL skills and building hands-on projects.
 💡 I’m always learning, improving my code, and happy to get feedback, collaborate, or explore job opportunities.  
   
 ⭐ Latest project: [**Basic Fantasy RPG Character Creator - v1.0.1**](https://github.com/ReneGRomCodes/basic_fantasy_rpg_character_creator/releases/tag/v1.0.1)
