@@ -3,18 +3,19 @@
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=Flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=Flat&logo=pycharm&logoColor=black&color=black&labelColor=green) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black) ![Datagrip](https://img.shields.io/badge/DataGrip-%23000000.svg?style=flat&logo=DataGrip&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)  
-👋 Hello!  
+
+I’m a Python-focused developer with a strong interest in building well-structured, practical software.  
+Currently expanding my skill set with JavaScript and SQL, and refreshing my foundations in C#, while working on hands-on projects.  
+
+🧠 Background: Business / Managerial Economics  
+💻 Focus: Python, software architecture, learning web & data fundamentals  
+🔍 Mindset: Build → break → improve → repeat  
+
+⭐ Featured project:  
+[**Basic Fantasy RPG Character Creator - v1.0.1**](https://github.com/ReneGRomCodes/basic_fantasy_rpg_character_creator/releases/tag/v1.0.1)  
+ – A modular, state-driven mini character-creation engine built with Python & Pygame, designed for easy system customization.
   
-I'm a Python developer 🐍 exploring automation, data, and software projects, actively looking for new professional opportunities. Currently sharpening my C#, JavaScript and SQL skills and building hands-on projects.
-💡 I’m always learning, improving my code, and happy to get feedback, collaborate, or explore job opportunities.  
-  
-⭐ Latest project: [**Basic Fantasy RPG Character Creator - v1.0.1**](https://github.com/ReneGRomCodes/basic_fantasy_rpg_character_creator/releases/tag/v1.0.1)
- – a mini-character-creation-engine for custom RPGs.  
-  
-🎮 Outside coding: fitness, video games, anime, and tinkering with old games.
-  
-⭐ Feel free to follow me — I’d really appreciate your support!  
-🙏 Thanks for visiting my profile ❤️  
+🎮 Outside coding: fitness, video games, anime, and tinkering with old games.  
   
 - ✨ Contact: renegromcodes@gmail.com
   
@@ -25,6 +26,7 @@ I'm a Python developer 🐍 exploring automation, data, and software projects, a
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/reneromero/foundational-c-sharp-with-microsoft)  
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Flat&logo=freecodecamp&logoColor=green) College Alebra with Python](https://www.freecodecamp.org/certification/reneromero/college-algebra-with-python-v8)
 
+Thanks for stopping by — feel free to explore, follow, or reach out 🙂
 
 <!---
 ReneGRomCodes/ReneGRomCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
